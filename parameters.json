@@ -1,0 +1,126 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "connections_keyvault_name": {
+            "value": null
+        },
+        "connections_azureblob_name": {
+            "value": null
+        },
+        "connections_azurefile_name": {
+            "value": null
+        },
+        "connections_keyvault_1_name": {
+            "value": null
+        },
+        "connections_keyvault_2_name": {
+            "value": null
+        },
+        "connections_keyvault_3_name": {
+            "value": null
+        },
+        "connections_keyvault_4_name": {
+            "value": null
+        },
+        "connections_keyvault_5_name": {
+            "value": null
+        },
+        "connections_keyvault_6_name": {
+            "value": null
+        },
+        "connections_azureblob_1_name": {
+            "value": null
+        },
+        "connections_azureblob_2_name": {
+            "value": null
+        },
+        "storageAccounts_dlsi2023_name": {
+            "value": null
+        },
+        "connections_azuredatafactory_name": {
+            "value": null
+        },
+        "connections_azuredatafactory_1_name": {
+            "value": null
+        },
+        "connections_azuredatafactory_2_name": {
+            "value": null
+        },
+        "vaults_kvSummerInterview2023_name": {
+            "value": null
+        },
+        "components_SummerInterview2023_name": {
+            "value": null
+        },
+        "workspaces_SummerInterview2023_name": {
+            "value": null
+        },
+        "virtualNetworks_PBiDevelopment_vnet_name": {
+            "value": null
+        },
+        "workflows_ConsumptionSummerInterview2023_name": {
+            "value": null
+        },
+        "storageAccounts_summerinterview20238f0b_name": {
+            "value": null
+        },
+        "storageAccounts_summerinterview2023a29f_name": {
+            "value": null
+        },
+        "storageAccounts_summerinterview2023b6e3_name": {
+            "value": null
+        },
+        "actionGroups_RecommendedAlertRules_AG_1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_PBiDevelopment_nsg_name": {
+            "value": null
+        },
+        "components_SummerInterview2023Deployment_name": {
+            "value": null
+        },
+        "metricAlerts_Percentage_CPU___PBiDevelopment_name": {
+            "value": null
+        },
+        "metricAlerts_VM_Availability___PBiDevelopment_name": {
+            "value": null
+        },
+        "metricAlerts_Network_In_Total___PBiDevelopment_name": {
+            "value": null
+        },
+        "metricAlerts_Network_Out_Total___PBiDevelopment_name": {
+            "value": null
+        },
+        "components_SummerInterview2023DeployFromTemplate_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "metricAlerts_Available_Memory_Bytes___PBiDevelopment_name": {
+            "value": null
+        },
+        "metricAlerts_OS_Disk_IOPS_Consumed_Percentage___PBiDevelopment_name": {
+            "value": null
+        },
+        "metricAlerts_Data_Disk_IOPS_Consumed_Percentage___PBiDevelopment_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___summerinterview2023_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___summerinterview2023deployment_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___summerinterview2023deployfromtemplate_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_9c2422ee_4329_48d5_9328_243ac923e9db_EUS_externalid": {
+            "value": null
+        },
+        "virtualMachines_PBiDevelopment_externalid": {
+            "value": null
+        }
+    }
+}
